@@ -405,6 +405,16 @@
 			"revisionTime": "2015-11-28T12:32:46+01:00"
 		},
 		{
+			"path": "github.com/pquerna/ffjson/fflib/v1",
+			"revision": "7b05a7d3d8064feff39ce06557fe402d9f16ab29",
+			"revisionTime": "2016-02-10T08:12:57-08:00"
+		},
+		{
+			"path": "github.com/pquerna/ffjson/fflib/v1/internal",
+			"revision": "7b05a7d3d8064feff39ce06557fe402d9f16ab29",
+			"revisionTime": "2016-02-10T08:12:57-08:00"
+		},
+		{
 			"path": "github.com/siddontang/go/bson",
 			"revision": "b151716326d7c7faf22473c0b04fb7ceac88b587",
 			"revisionTime": "2015-05-05T08:45:01+08:00"
